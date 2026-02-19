@@ -31,7 +31,7 @@ The dashboard was designed to answer the following key business questions:
 -	Data Cleaning: Validated data types, handled missing values, and ensured consistency across key fields such as dates, geography, and product attributes.
 -	Segmentation & Comparative Analysis: Analyzed performance by geography, pharmacy type, product category, brand, and promotion status to compare trends and identify differences in sales and profitability.
 -	Visual Storytelling: Built an interactive dashboard using time-series charts, maps, bar charts, and scatter plots to highlight trends, comparisons, and performance drivers.
-  
+![Pharmacy Sales Dashboard](pharmacy-sales-dashboard.png)
 ### Key Insights
 -	Revenue shows clear seasonality, with the highest revenue recorded in July and the lowest in February across the observed years. In 2025 specifically, May also recorded strong revenue performance, while February remained the weakest month.
 -	Units sold peaked in December 2025, indicating a strong year-end demand. The lowest sales volume occurred in April, followed by February, suggesting weaker demand in early-year periods.
