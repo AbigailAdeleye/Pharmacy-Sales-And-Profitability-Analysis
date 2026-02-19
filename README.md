@@ -32,6 +32,8 @@ The dashboard was designed to answer the following key business questions:
 -	Segmentation & Comparative Analysis: Analyzed performance by geography, pharmacy type, product category, brand, and promotion status to compare trends and identify differences in sales and profitability.
 -	Visual Storytelling: Built an interactive dashboard using time-series charts, maps, bar charts, and scatter plots to highlight trends, comparisons, and performance drivers.
 ![Pharmacy Sales Dashboard](pharmacy-sales-dashboard.png)
+
+[Link_to_Report](https://app.powerbi.com/view?r=eyJrIjoiMGMzODNkMGEtMWU1Yi00OTIwLTg3NTYtMWYzNTZlN2NkMWZmIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 ### Key Insights
 -	Revenue shows clear seasonality, with the highest revenue recorded in July and the lowest in February across the observed years. In 2025 specifically, May also recorded strong revenue performance, while February remained the weakest month.
 -	Units sold peaked in December 2025, indicating a strong year-end demand. The lowest sales volume occurred in April, followed by February, suggesting weaker demand in early-year periods.
